@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Papers Notebook</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2013-11-25T10:17:15+02:00</updated>
+ <id>http://kunefge.github.io</id>
+ <author>
+   <name></name>
+ </author>
+ <rights>CC0</rights>
+ 
+ <entry>
+   <title>Scientific Literacy</title>
+   <link href="/2013/11/21/scientific-literacy.html"/>
+   <updated>2013-11-21T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/21/scientific-literacy</id>
+    
+   <category term="/trial/categories.html#science" label="science"/>
+   
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;The real world varies unpredictably. Science is mostly about discovering what causes the patterns we see. … main challenge of research is teasing apart the importance of the process of interest from the innumerable other sources of variation. [1]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Differences and chance cause variation.&lt;/li&gt;
+&lt;li&gt;No measurement is exact.&lt;/li&gt;
+&lt;li&gt;Bias is rife.&lt;/li&gt;
+&lt;li&gt;Bigger is usually better for sample size.&lt;/li&gt;
+&lt;li&gt;Correlation does not imply causation.&lt;/li&gt;
+&lt;li&gt;Regression to the mean can mislead.&lt;/li&gt;
+&lt;li&gt;Extrapolating beyond the data is risky.&lt;/li&gt;
+&lt;li&gt;Beware the base-rate fallacy.&lt;/li&gt;
+&lt;li&gt;Controls are important.&lt;/li&gt;
+&lt;li&gt;Randomization avoids bias.&lt;/li&gt;
+&lt;li&gt;Seek replication, not pseudoreplication.&lt;/li&gt;
+&lt;li&gt;Scientists are human.&lt;/li&gt;
+&lt;li&gt;Significance is significant.&lt;/li&gt;
+&lt;li&gt;Separate no effect from non-significance.&lt;/li&gt;
+&lt;li&gt;Effect size matters.&lt;/li&gt;
+&lt;li&gt;Study relevance limits generalizations.&lt;/li&gt;
+&lt;li&gt;Feelings influence risk perception.&lt;/li&gt;
+&lt;li&gt;Dependencies change the risks.&lt;/li&gt;
+&lt;li&gt;Data can be dredged or cherry picked.&lt;/li&gt;
+&lt;li&gt;Extreme measurements may mislead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[1] http://www.nature.com/news/policy-twenty-tips-for-interpreting-scientific-claims-1.14183&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gezi Tecrubesi Erdogan</title>
+   <link href="/2013/11/21/gezi-tecrubesi-erdogan.html"/>
+   <updated>2013-11-21T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/21/gezi-tecrubesi-erdogan</id>
+    
+   <category term="/trial/categories.html#siyaset" label="siyaset"/>
+   
+   <content type="html">&lt;p&gt;[1]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Söyleyecek tek sözümüzün “Fabrika Ayarlarına döndüler”den ibaret kalmasını pek içime sindiremiyorum doğrusu.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Başbakan protesto eyleminin ancak kanunların (o da bizim gösteri ve yürüyüşleri düzenleyen acayip kanunlarımızın) izin verdiği en etkisiz biçimde yapılmasını meşru kabul ediyor. Kavram dünyasında “sivil itaatsizlik” yer almıyor. Mevcut hukuku çiğneyip çiğnemediği bile tartışmalı olan, en azından bir yargı sürecine muhtaç bulunan (o da olsa olsa sulh ceza mahkemesi alanına girecektir) parka çadır kurma eylemini yaratıcı ve tolere edilebilir bir protesto olarak nitelemiyor. Taksim meydanının nasıl düzenleneceğine en çok oyu almış partinin başkanı ve başbakan olarak kendisinin karar verebileceğine, Belediye Başkanları dahil en meşru otoritenin kendisi olduğuna inanıyor. “Milli İrade” kavramı burada, çoğunluğun seçimlerde oy vermesini yeterli sayan ataerkil otoritenin her tasarrufunda topluma yönelttiği baş eğme çağrısının dolaysız meşru kaynağı işlevi görüyor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tartışma çok hoş karşılanmıyor. Sivil dünya, danışılacak, ikna edilecek bir alan olarak görülmüyor. Bunlar, iktidarın işlevini aşındıracak, icraatları gereksiz yere zorlaştıracak yöntemler olarak kabul ediliyor. Çoğunluk kabul ediyor ya da kayıtsız kalıyorsa, kabul etmeyen azınlığı dinlemek, onları ikna etmeye çalışmak otoritenin bir sorumluluğu değil zaafı olarak yorumlanıyor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;[1] http://serbestiyet.com/gezi-tecrubesi-icinden-erdogana-bir-bakis/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lk310</title>
+   <link href="/2013/11/19/LK310.html"/>
+   <updated>2013-11-19T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/19/LK310</id>
+    
+   <category term="/trial/categories.html#research" label="research"/>
+   
+   <content type="html">&lt;h2 id=&quot;lk_310-papers&quot;&gt;LK\(_{310}\) Papers&lt;/h2&gt;
+&lt;p&gt;The papers for LK 3-10 are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://pubs.acs.org/doi/full/10.1021/ja011624n&quot;&gt;Assembly of \(\alpha\)-helical Peptide Coatings on Hydrophobic Surfaces&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://scitation.aip.org/content/avs/journal/jvstb/28/4/10.1116/1.3456176&quot;&gt;Weidner’s&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Science Method</title>
+   <link href="/2013/11/15/science-method.html"/>
+   <updated>2013-11-15T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/15/science-method</id>
+    
+   <category term="/trial/categories.html#science" label="science"/>
+   
+   <content type="html">&lt;p&gt;&lt;em&gt;falsifiable prediction for any kind of testable experiment&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How Smart Do You Need To Be To Collapse A Wave Function</title>
+   <link href="/2013/11/15/how-smart-do-you-need-to-be-to-collapse-a-wave-function.html"/>
+   <updated>2013-11-15T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/15/how-smart-do-you-need-to-be-to-collapse-a-wave-function</id>
+    
+   <category term="/trial/categories.html#science" label="science"/>
+   
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Here’s a ten-second quantum mechanics course. At a fundamental level, everything in the universe behaves like a little probability wave. Particles are literally in many places at once, each with some probability. Take an electron and fire it at a screen with two slits cut through it, and astonishingly, the electron will go through both slits simultaneously. But suppose you set up a pair of cameras to monitor which slit the electron goes through and suddenly – poof – the “wave function collapses” and it really goes through only one of the two. Somehow observing the system directly affects it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It turns out that you can retroactively force the wave function to collapse.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The weirdest thing about all of this is that you’re made of quantum particles. The entire universe should actually have one giant, ridiculously complex wave function, and you, me, the cat and the electron are all part of it. It’s kind of like the force.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If the Copenhagen interpretation bothers you, there are other options. David Bohm’s “Causal Interpretation” is based on the idea that regardless of whether you observe it the electron really does go through one slit or another; the cat is dead or alive, and opening the box just informs you, not the universe. There is no collapse of the wave function; there are just hidden variables that we can’t measure.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ignorance</title>
+   <link href="/2013/11/13/ignorance.html"/>
+   <updated>2013-11-13T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/13/ignorance</id>
+    
+   <category term="/trial/categories.html#books" label="books"/>
+   
+   <content type="html">&lt;p&gt;Hello!!!&lt;/p&gt;
+&lt;p&gt;ntant, teacher. But with science there is one important difference. The facts serve mainly to access the ignorance… Scientists don’t concentrate on what they know, which is considerable but minuscule, but rather on what they don’t know…. Science traffi&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The cult of expertise — whose currency are static answers — obscures the very capacity for cultivating a thirst for ignorance:&lt;sup&gt;&lt;a href=&quot;#fn1&quot; class=&quot;footnoteRef&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are a lot of facts to be known in order to be a professional anything — lawyer, doctor, engineer, accountant, teacher. But with science there is one important difference. The facts serve mainly to access the ignorance… Scientists don’t concentrate on what they know, which is considerable but minuscule, but rather on what they don’t know…. Science traffics in ignorance, cultivates it, and is driven by it. Mucking about in the unknown is an adventure; doing it for a living is something most scientists consider a privilege.&lt;/p&gt;
+&lt;p&gt;Working scientists don’t get bogged down in the factual swamp because they don’t care all that much for facts. It’s not that they discount or ignore them, but rather that they don’t see them as an end in themselves. They don’t stop at the facts; they begin there, right beyond the facts, where the facts run out. Facts are selected, by a process that is a kind of controlled neglect, for the questions they create, for the ignorance they point to.&lt;sup&gt;&lt;a href=&quot;#fn2&quot; class=&quot;footnoteRef&quot; id=&quot;fnref2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hello How are you?&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.brainpickings.org/index.php/2012/11/19/best-science-books-2012/&quot; title=&quot;Brain Pickings&quot;&gt;Brain Pickings&lt;/a&gt;&lt;a href=&quot;#fnref1&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/dp/0465029736/ref=as_li_ss_til?tag=braipick-20&amp;amp;camp=0&amp;amp;creative=0&amp;amp;linkCode=as4&amp;amp;creativeASIN=0465029736&amp;amp;adid=1QT9HACBQV99EKJKXD7W&quot; title=&quot;Ignorance - Amazon Link&quot;&gt;Ignorance -Ian Stewart&lt;/a&gt;&lt;a href=&quot;#fnref2&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fu2012</title>
+   <link href="/2013/11/12/fu2012.html"/>
+   <updated>2013-11-12T00:00:00+02:00</updated>
+   <id>http://kunefge.github.io/2013/11/12/fu2012</id>
+    
+   <category term="/trial/categories.html#research" label="research"/>
+   
+   <content type="html">&lt;h2 id=&quot;a-test-of-systematic-coarse-graining-of-molecular-dynamics-simulations-thermodynamic-properties&quot;&gt;A test of systematic coarse-graining of molecular dynamics simulations: Thermodynamic properties&lt;/h2&gt;
+&lt;hr&gt;
+&lt;pre class=&quot;sourceCode python&quot;&gt;&lt;code class=&quot;sourceCode python&quot;&gt;&lt;span class=&quot;kw&quot;&gt;def&lt;/span&gt; function():
+    &lt;span class=&quot;kw&quot;&gt;print&lt;/span&gt; s&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Schott Shell paper&lt;/p&gt;
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Coarse-graining (CG) techniques have recently attracted great interest for providing descriptions at a mesoscopic level of resolution that preserve fluid thermodynamic and transport behaviors with a reduced number of degrees of freedom and hence less computational effort. One fundamental question arises: how well and to what extent can a “bottom-up” developed mesoscale model recover the physical properties of a molecular scale system? To answer this question, we explore systematically the properties of a CG model that is developed to represent an intermediate mesoscale model between the atomistic and continuum scales. This CG model aims to reduce the computational cost relative to a full atomistic simulation, and we assess to what extent it is possible to preserve both the thermodynamic and transport properties of an underlying reference all-atom Lennard-Jones (LJ) system. In this paper, only the thermodynamic properties are considered in detail. The transport properties will be examined in subsequent work. To coarse-grain, we first use the iterative Boltzmann inversion (IBI) to determine a CG potential for a (1-ϕ)N mesoscale particle system, where ϕ is the degree of coarse-graining, so as to reproduce the radial distribution function (RDF) of an N atomic particle system. Even though the uniqueness theorem guarantees a one to one relationship between the RDF and an effective pairwise potential, we find that RDFs are insensitive to the long-range part of the IBI-determined potentials, which provides some significant flexibility in further matching other properties. We then propose a reformulation of IBI as a robust minimization procedure that enables simultaneous matching of the RDF and the fluid pressure. We find that this new method mainly changes the attractive tail region of the CG potentials, and it improves the isothermal compressibility relative to pure IBI. We also find that there are optimal interaction cutoff lengths for the CG system, as a function of \(\phi\), that are required to attain an adequate potential while maintaining computational speedup. To demonstrate the universality of the method, we test a range of state points for the LJ liquid as well as several LJ chain fluids.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Notes</title>
+   <link href="/2011/10/10/notes.html"/>
+   <updated>2011-10-10T00:00:00+03:00</updated>
+   <id>http://kunefge.github.io/2011/10/10/notes</id>
+    
+   <category term="/trial/categories.html#research" label="research"/>
+    
+   <category term="/trial/categories.html#ibi" label="ibi"/>
+   
+   <content type="html">&lt;h1 id=&quot;do&quot;&gt;DO&lt;/h1&gt;
+&lt;h2 id=&quot;do-1&quot;&gt;DO&lt;/h2&gt;
+&lt;p&gt;There are other methods where people will sway&lt;/p&gt;
+&lt;p&gt;\(\pi\)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More&lt;/li&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Not&lt;/li&gt;
+&lt;li&gt;Not&lt;/li&gt;
+&lt;li&gt;Not&lt;/li&gt;
+&lt;li&gt;Not&lt;/li&gt;
+&lt;li&gt;Not&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Whoever walks alone&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;not&lt;/code&gt;&lt;/p&gt;
+&lt;pre class=&quot;sourceCode bash&quot;&gt;&lt;code class=&quot;sourceCode bash&quot;&gt;    &lt;span class=&quot;kw&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;st&quot;&gt;&amp;quot;DONE&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In python you can write sth like this:&lt;/p&gt;
+&lt;pre class=&quot;sourceCode python&quot;&gt;&lt;code class=&quot;sourceCode python&quot;&gt;&lt;span class=&quot;kw&quot;&gt;class&lt;/span&gt; Data:
+    &lt;span class=&quot;kw&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;ot&quot;&gt;__init__&lt;/span&gt;(a):
+        &lt;span class=&quot;ot&quot;&gt;self&lt;/span&gt;.a = a&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here’s a &lt;a href=&quot;http://www.google.com/&quot; title=&quot;Google&quot;&gt;poorly-named link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Never write &lt;a href=&quot;http://www.w3.org/QA/Tips/noClickHere&quot; title=&quot;Advice against the phrase &amp;quot;click here&amp;quot;&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Visit &lt;a href=&quot;http://stackoverflow.com/&quot; title=&quot;Stack Overflow&quot;&gt;us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hello &lt;a href=&quot;http://www.w3.org/QA/Tips/noClickHere&quot;&gt;there&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;xxx &lt;sup&gt;&lt;a href=&quot;#fn1&quot; class=&quot;footnoteRef&quot; id=&quot;fnref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;\[a^2+b^2=c^2\]&lt;/p&gt;
+&lt;p&gt;abasdas &lt;code&gt;r citet(&amp;quot;10.1007/s11009-011-9256-5&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;http://google.com&lt;a href=&quot;#fnref1&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Books</title>
+   <link href="/0000/01/01/books.html"/>
+   <updated>0000-01-01T00:00:00+01:55</updated>
+   <id>http://kunefge.github.io/0000/01/01/books</id>
+    
+   <category term="/trial/categories.html#books" label="books"/>
+   
+   <content type="html">&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Ignorance&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+</feed>
